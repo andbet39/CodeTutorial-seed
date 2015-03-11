@@ -1,8 +1,8 @@
 {
-  "name": "angular-codetutoial",
+  "name": "CodeTutorial-seed",
   "description": "A starter project for AngularJS",
   "version": "0.0.0",
-  "homepage": "https://github.com/angular/angular-seed",
+  "homepage": "https://github.com/andbet39/CodeTutorial-seed",
   "license": "MIT",
   "private": true,
   "dependencies": {
